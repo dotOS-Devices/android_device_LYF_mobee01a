@@ -16,11 +16,5 @@
     "repository": "dotOS-Devices/proprietary_vendor_LYF_LS-5015",
     "target_path": "vendor/LYF/mobee01a",
     "revision": "dot-o"
-  },
-  {
-    "remote": "github",
-    "repository": "dotOS-Devices/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-    "revision": "dot-o"
   }
 ]
