@@ -80,7 +80,7 @@ PRODUCT_PACKAGES += \
     android.hardware.memtrack@1.0-service
 
 # Dalvik
-$(call inherit-product, device/LYF/mobee01a/display/phone-xxhdpi-2048-hwui-memory.mk)
+#$(call inherit-product, device/LYF/mobee01a/display/phone-xxhdpi-2048-hwui-memory.mk)
 
 # Thermal
 PRODUCT_PACKAGES += \
@@ -209,11 +209,7 @@ PRODUCT_COPY_FILES += \
 
 # Power
 PRODUCT_PACKAGES += \
-    power.msm8916
-
-PRODUCT_PACKAGES += \
-    android.hardware.power@1.0-impl \
-    android.hardware.power@1.0-service
+    android.hardware.power@1.0-service-qti
 
 # Radio
 PRODUCT_PACKAGES += \
@@ -293,7 +289,7 @@ PRODUCT_PACKAGES += \
     camera.device@3.2-impl
 
 # Dalvik
-$(call inherit-product, frameworks/native/build/phone-xxhdpi-2048-hwui-memory.mk)
+#$(call inherit-product, frameworks/native/build/phone-xxhdpi-2048-hwui-memory.mk)
 
 # GPS
 PRODUCT_PACKAGES += \
