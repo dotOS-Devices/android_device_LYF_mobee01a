@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "dotOS-Devices/android_kernel_LS-5015",
+    "repository": "TeamODonors/ODonors_kernel_LYF_mobee01a",
     "target_path": "kernel/LYF/mobee01a",
-    "revision": "dot-o"
+    "revision": "ODonors"
   },
   {
     "remote": "github",
