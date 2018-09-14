@@ -19,4 +19,4 @@ PRODUCT_MAKEFILES := \
 #----------------------------------------------------------------------
 # extra images
 #----------------------------------------------------------------------
-include build/core/generate_extra_images.mk
+#include build/core/generate_extra_images.mk
