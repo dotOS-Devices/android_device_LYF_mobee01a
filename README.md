@@ -1,7 +1,7 @@
 Device Tree for the LYF Water 8 (mobee01a)
 ==========================================
 
-The LYF Water 8 LS-5015 (codenamed _"mobee01a"_) is a mid-range smartphone from YU Televentures.  
+The LYF Water 8 LS-5015 (codenamed _"mobee01a"_) is a mid-range smartphone from Reliance Jio.  
 It was announced in July 2016.
 
 Basic Spec Sheet
@@ -10,10 +10,10 @@ Basic Spec Sheet
 Feature | Specification
 --------|:-------------------------
 CPU     | Octa-core 1.5GHz Cortex-A53 – 4×1.5GHz + 4×1.2GHz
-Chipset | Qualcomm® SnapdragonTM 615 MSM8939
+Chipset | Qualcomm® Snapdragon™ 615 MSM8939
 GPU     | Adreno 405
 Memory  | 3 GB RAM
-Shipped Android Version | 5.1 | 6.0.1
+Shipped Android Version | 5.1 6.0.1
 Storage | 16 GB
 MicroSD | Up to 128 GB
 Battery | Removable Li-Ion 2600 mAh battery
