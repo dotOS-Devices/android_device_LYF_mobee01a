@@ -1,15 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "TeamODonors/ODonors_kernel_LYF_mobee01a",
+    "repository": "AndroiableDroid/Destructive_Kernel",
     "target_path": "kernel/LYF/mobee01a",
-    "revision": "ODonors"
-  },
-  {
-    "remote": "github",
-    "repository": "DotOS/android_external_sony_boringssl-compat",
-    "target_path": "external/sony/boringssl-compat",
-    "revision": "dot-o"
+    "revision": "Destructive"
   },
   {
     "remote": "github",

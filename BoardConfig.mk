@@ -142,7 +142,7 @@ BOARD_KERNEL_IMAGE_NAME := Image.gz
 BOARD_KERNEL_SEPARATED_DT := true
 LZMA_RAMDISK_TARGETS := recovery
 TARGET_KERNEL_SOURCE := kernel/LYF/mobee01a
-TARGET_KERNEL_CONFIG := odonors_defconfig
+TARGET_KERNEL_CONFIG := destructive_defconfig
 
 # Manifest
 DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/manifest.xml
