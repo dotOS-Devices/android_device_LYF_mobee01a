@@ -215,6 +215,7 @@ TARGET_LD_SHIM_LIBS := \
     /system/vendor/bin/mm-qcamera-daemon|libshim_camera.so \
     /system/vendor/lib/libmmcamera2_imglib_modules.so|libshim_camera.so \
     /system/vendor/lib/libmmcamera2_stats_modules.so|libshim_camera.so \
+    /system/vendor/lib64/lib-imsvt.so|libshims_ims.so \
     /system/vendor/lib/libmmqjpeg_codec.so|libshim_boringssl.so \
     /system/vendor/lib64/lib-imsdpl.so|libshim_boringssl.so \
     /system/vendor/lib64/libflp.so|libshims_flp.so \
