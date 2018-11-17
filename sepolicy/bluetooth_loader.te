@@ -1,0 +1,6 @@
+allow bluetooth_loader bluetooth_loader_exec:file execute_no_trans;
+allow bluetooth_loader bluetooth_prop:property_service set;
+allow bluetooth_loader init:unix_stream_socket connectto;
+allow bluetooth_loader property_socket:sock_file write;
+allow bluetooth_loader qti_init_shell_exec:file entrypoint;
+allow bluetooth_loader vendor_toolbox_exec:file execute_no_trans;

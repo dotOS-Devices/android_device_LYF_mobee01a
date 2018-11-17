@@ -1,2 +1,3 @@
 allow init hwservicemanager:binder { call transfer };
-allow init vendor_file:file { execute_no_trans };
+allow init input_device:chr_file ioctl;
+allow init system_server:binder call;

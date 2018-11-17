@@ -1,0 +1,2 @@
+allow tee unlabeled:file { getattr open read };
+allow tee unlabeled:dir search;
