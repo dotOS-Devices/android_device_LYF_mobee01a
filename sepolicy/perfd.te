@@ -1,2 +1,4 @@
 allow perfd sysfs_memory:dir search;
 allow perfd sysfs_memory:file { open read };
+allow perfd self:capability dac_override;
+allow perfd sysfs_memory:file write;
